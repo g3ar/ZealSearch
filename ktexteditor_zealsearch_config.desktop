@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+X-KDE-ServiceTypes=KCModule
+X-KDE-Library=ktexteditor_zealsearch
+X-KDE-PluginKeyword=ktexteditor_zealsearch_config
+X-KDE-ParentComponents=ktexteditorzealsearch
+Name=ZealSearch Configuration

@@ -1,0 +1,9 @@
+<!DOCTYPE kpartgui>
+<kpartplugin name="ktexteditor_zealsearch" library="ktexteditor_zealsearch" version="2">
+<MenuBar>
+ <Menu name="tools"><Text>&amp;Tools</Text>
+    <separator group="tools_operations" />
+    <Action name="tools_zealsearch" group="tools_operations"/>
+ </Menu>
+</MenuBar>
+</kpartplugin>
