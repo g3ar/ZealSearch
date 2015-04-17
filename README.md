@@ -3,7 +3,7 @@
 ZealSearch is the [Zeal](http://zealdocs.org/) integration plugin for KTextEditor-based 
 editors(Kate, KWrite, KDevelop, Kile, etc).
 ### Features
-- Search selected test in Zeal
+- Search selected text in Zeal
 - Configurable tying up docset filters to file extensions
 
 ## How to install?
