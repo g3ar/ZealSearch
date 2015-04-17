@@ -5,6 +5,7 @@ editors(Kate, KWrite, KDevelop, Kile, etc).
 ### Features
 - Search selected test in Zeal
 - Configurable tying up docset filters to file extensions
+
 ## How to install?
 Installation process described for Ubuntu 14.04. Required package names and package manager may vary 
 depending of your distro.
